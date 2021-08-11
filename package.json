@@ -1,0 +1,8 @@
+{
+  "name": "potluck-guestlist-and-dish",
+  "version": "1.0.0",
+  "description": "A form to add guests to a party and then assign them with a dish to bring",
+  "main": "index.html",
+  "dependencies": {},
+  "keywords": []
+}
